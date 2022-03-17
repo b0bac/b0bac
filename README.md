@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning redteam skills
+- 📫 How to reach me: crsecscu@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=b0bac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
+
+![Visitor Count](https://profile-counter.glitch.me/b0bac/count.svg)
